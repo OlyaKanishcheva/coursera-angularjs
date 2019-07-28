@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: row;
+  font-family: 'Avenir';
+}
+
+.list-container {
+  margin-right: 50px;
+  padding: 10px 15px;
+  min-width: 200px;
+}
